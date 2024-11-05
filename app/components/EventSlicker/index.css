@@ -1,0 +1,5 @@
+.slider {
+  & > button {
+    display: none !important;
+  }
+}

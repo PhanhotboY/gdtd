@@ -1,0 +1,28 @@
+{"_type": "category", "title": "Giáo dục", "description": "Các thông tin liên quan đến giáo dục từ mầm non, tiểu học và học trực tuyến.", "slug": {"_type": "slug", "current": "giao-duc"}, "parent": null}
+{"_type": "category", "title": "Mầm non", "description": "Thông tin giáo dục mầm non.", "slug": {"_type": "slug", "current": "mam-non"}, "parent": null}
+{"_type": "category", "title": "Tiểu học", "description": "Thông tin giáo dục tiểu học.", "slug": {"_type": "slug", "current": "tieu-hoc"}, "parent": null}
+{"_type": "category", "title": "Học trực tuyến", "description": "Các phương pháp và nền tảng học trực tuyến.", "slug": {"_type": "slug", "current": "hoc-truc-tuyen"}, "parent": null}
+
+{"_type": "category", "title": "Bảo hiểm", "description": "Thông tin về các loại bảo hiểm.", "slug": {"_type": "slug", "current": "bao-hiem"}, "parent": null}
+{"_type": "category", "title": "Bảo hiểm nhân thọ", "description": "Thông tin về bảo hiểm nhân thọ.", "slug": {"_type": "slug", "current": "bao-hiem-nhan-tho"}, "parent": null}
+{"_type": "category", "title": "Bảo hiểm sức khỏe", "description": "Thông tin về bảo hiểm sức khỏe.", "slug": {"_type": "slug", "current": "bao-hiem-suc-khoe"}, "parent": null}
+
+{"_type": "category", "title": "Trẻ em và Gia đình", "description": "Các thông tin về sức khỏe và dinh dưỡng cho trẻ em và gia đình.", "slug": {"_type": "slug", "current": "tre-em-va-gia-dinh"}, "parent": null}
+{"_type": "category", "title": "Sức khỏe trẻ em", "description": "Các thông tin về sức khỏe trẻ em.", "slug": {"_type": "slug", "current": "suc-khoe-tre-em"}, "parent": null}
+{"_type": "category", "title": "Dinh dưỡng", "description": "Các thông tin về dinh dưỡng cho trẻ em.", "slug": {"_type": "slug", "current": "dinh-duong"}, "parent": null}
+
+{"_type": "category", "title": "Kỹ năng & Đào tạo", "description": "Thông tin về kỹ năng sống và học ngoại ngữ.", "slug": {"_type": "slug", "current": "ky-nang-dao-tao"}, "parent": null}
+{"_type": "category", "title": "Kỹ năng sống", "description": "Các kỹ năng sống cần thiết cho trẻ em.", "slug": {"_type": "slug", "current": "ky-nang-song"}, "parent": null}
+{"_type": "category", "title": "Học ngoại ngữ", "description": "Thông tin về học ngoại ngữ cho trẻ em.", "slug": {"_type": "slug", "current": "hoc-ngoai-ngu"}, "parent": null}
+
+{"_type": "category", "title": "Sự kiện & Hội thảo", "description": "Thông tin về các sự kiện và hội thảo.", "slug": {"_type": "slug", "current": "su-kien-hoi-thao"}, "parent": null}
+{"_type": "category", "title": "Hội thảo giáo dục", "description": "Thông tin về các hội thảo giáo dục.", "slug": {"_type": "slug", "current": "hoi-thao-giao-duc"}, "parent": null}
+{"_type": "category", "title": "Sự kiện ngành bảo hiểm", "description": "Thông tin về các sự kiện trong ngành bảo hiểm.", "slug": {"_type": "slug", "current": "su-kien-nganh-bao-hiem"}, "parent": null}
+
+{"_type": "category", "title": "Tin tức", "description": "Tin tức về giáo dục và công nghệ.", "slug": {"_type": "slug", "current": "tin-tuc"}, "parent": null}
+{"_type": "category", "title": "Tin giáo dục", "description": "Cập nhật tin tức về giáo dục.", "slug": {"_type": "slug", "current": "tin-giao-duc"}, "parent": null}
+{"_type": "category", "title": "Tin công nghệ", "description": "Cập nhật tin tức về công nghệ.", "slug": {"_type": "slug", "current": "tin-cong-nghe"}, "parent": null}
+
+{"_type": "category", "title": "Quảng cáo & Hợp tác", "description": "Thông tin quảng cáo và hợp tác.", "slug": {"_type": "slug", "current": "quang-cao-hop-tac"}, "parent": null}
+{"_type": "category", "title": "Chính sách quảng cáo", "description": "Các chính sách quảng cáo cho đối tác.", "slug": {"_type": "slug", "current": "chinh-sach-quang-cao"}, "parent": null}
+{"_type": "category", "title": "Đối tác của chúng tôi", "description": "Giới thiệu về đối tác của trang web.", "slug": {"_type": "slug", "current": "doi-tac-cua-chung-toi"}, "parent": null}

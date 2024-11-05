@@ -1,0 +1,18 @@
+.ads {
+  p {
+    margin-right: 1rem;
+    line-height: 2rem;
+    font-size: 0.875rem;
+    color: var(--sub4-text-color);
+    border-bottom: 1px var(--sub7-text-color) dashed;
+  }
+
+  a {
+    font-weight: 600;
+    color: var(--sub3-text-color);
+
+    &:hover {
+      color: var(--main-color);
+    }
+  }
+}
