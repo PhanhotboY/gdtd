@@ -45,7 +45,7 @@ export default function NavBar({ className }: { className?: string }) {
                 {item.subCategories.map((subItem, i) => (
                   <ListItem className={`p-0 text-[--sub2-text-color]`} key={i}>
                     <Link
-                      className={`font-bold block w-max px-4 py-2 flex-grow hover:text-[--main-color]`}
+                      className={`font-bold block w-max px-4 py-2 flex-grow hover:text-[--sub1-text-color]`}
                       to={`/danh-muc/${subItem.slug}`}
                       title={subItem.title}
                     >

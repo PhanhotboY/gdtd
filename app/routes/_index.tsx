@@ -174,24 +174,20 @@ const Overview = ({ articles }: { articles: IArticle[] }) => {
         article={articles[0]}
         detailed
         important
+        colSpan={10}
+        ratio='6/4'
         className='max-lg:col-span-full'
       />
 
       <div className='col-span-2 hidden lg:flex flex-col justify-between'>
-        <img
-          src='https://cdn.giaoducthoidai.vn/images/933b8210c8725bcb014523ebb505ed6a1e32d79aa3e271a0d9caf357bf7309da8d4b5c953e767c4cda9f3d9121710cb9baa5997e317471d505df4c4320653ccb/300x80-1369.png.webp'
-          alt=''
-        />
-
-        <img
-          src='https://cdn.giaoducthoidai.vn/images/933b8210c8725bcb014523ebb505ed6a0eaa996d784d29403dc60aaf517ac700c194e837b52ff25fa766e7499b99fcdebaa5997e317471d505df4c4320653ccb/210x250-286.png.webp'
-          alt=''
-        />
+        {articles.slice(1, 3).map((a, i) => (
+          <VerticalArtical article={a} key={i} className='mb-4' />
+        ))}
       </div>
 
       <div className='col-span-full border-b md:hidden'></div>
 
-      {articles.slice(1).map((a, i) => (
+      {articles.slice(3).map((a, i) => (
         <VerticalArtical
           article={a}
           key={i}
